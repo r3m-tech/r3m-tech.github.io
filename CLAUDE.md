@@ -10,7 +10,9 @@ Static landing page for **R3M Tech** (r3m.tech), a Brazilian software developmen
 
 - **`index.html`** — The entire site: markup, CSS (inline `<style>`), and JS (inline `<script>`)
 - **`assets/`** — Logo images (light/dark variants) and favicon files
+- **`assets/og-image.png`** — 1200×630 social preview image used by `og:image` and `twitter:image`
 - **`favicon.ico`** — Root favicon
+- **`llms.txt`** — Plain-text summary of the company for LLM crawlers (keep in sync with the meta description and JSON-LD)
 
 There is no package.json, no build step, no test suite, and no linter. To preview, open `index.html` in a browser or use any static file server.
 

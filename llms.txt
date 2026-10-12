@@ -1,0 +1,15 @@
+# R3M Tech
+
+> Delivering software development solutions since 2012. Specializing in AI, Elixir, Phoenix, Kotlin, Java, and JS.
+
+## About
+
+R3M Tech is a Brazilian software development company founded in 2012 by Raul Pereira (https://raulpe7eira.tech/), providing software engineering services with a focus on AI, Elixir, and Phoenix.
+
+## Links
+
+- Website: https://r3m.tech/
+- Founder: https://raulpe7eira.tech/
+- LinkedIn: https://linkedin.com/company/r3m-technology
+- GitHub: https://github.com/r3m-tech
+- Email: raul@r3m.tech
